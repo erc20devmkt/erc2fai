@@ -1,5 +1,3 @@
-# Wallet OTP Polybase DBs
-
 Polybase is a NoSQL-like privacy preserving decentralized database, built on zk-STARKs. It uses a zk-rollup combined with native indexing to allow decentralized database rules, fast queries and scalable writes.
 
 [Polybase docs](https://polybase.xyz/docs/introduction)
