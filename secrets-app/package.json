@@ -16,6 +16,7 @@
     "@testing-library/user-event": "^14.4.3",
     "@web3modal/ethereum": "^2.4.5",
     "@web3modal/react": "^2.4.5",
+    "@web3modal/wagmi": "^4.0.13",
     "alchemy-sdk": "^2.9.0",
     "authenticator": "^1.1.5",
     "dotenv": "^16.1.4",
